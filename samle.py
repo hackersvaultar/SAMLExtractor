@@ -39,7 +39,7 @@ def banner():
       ___/ / ___ |/ /  / / /___   / /____>  </ /_/ /  / /_/ / /__/ /_  
      /____/_/  |_/_/  /_/_____/  /_____/_/|_|\__/_/   \__,_/\___/\__/
      ''')
-    print(Fore.CYAN + "                ###  A tool By Fady Othman - @fady_osman  ###")
+    print(Fore.CYAN + "                ###  A tool By Fady Othman - @fady_othman  ###")
     print(Fore.CYAN + "                ###        Follow the White Rabbit        ###")
     print("")
 
